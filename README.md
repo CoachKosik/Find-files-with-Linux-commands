@@ -32,25 +32,25 @@ This project focuses on navigating a Linux file system using command-line tools.
 ## Steps
 1. Get the current directory information
 
-  1. Display your working directory.
-  2. Display the names of the files and directories in the current working directory.
-
+   1. Display your working directory.
+   2. Display the names of the files and directories in the current working directory.
+      
 2. Change directory and list the subdirectories
 
    1. Navigate to the /home/analyst/reports directory.
    2. Display the files and subdirectories in the /home/analyst/reports directory.
   
-3. Locate and read the contents of a file
+5. Locate and read the contents of a file
 
    1. Navigate to the /home/analyst/reports/users directory.
    2. List the files in the current directory.
    3. Display the contents of the Q1_added_users.txt file.
 
-4. Navigate to a directory and locate a file
+6. Navigate to a directory and locate a file
 
    1. Navigate to the /home/analyst/logs directory.
    2. Display the name of the file it contains.
-   3. Display the first 10 lines of this file.
+   3. Display the first 10 lines of this file.<br>
 
 ![linux Commands](https://github.com/user-attachments/assets/3810b2ba-3c05-439d-8d95-cfb603bf5793)<br>
 
