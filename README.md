@@ -40,13 +40,13 @@ This project focuses on navigating a Linux file system using command-line tools.
    1. Navigate to the /home/analyst/reports directory.
    2. Display the files and subdirectories in the /home/analyst/reports directory.
   
-5. Locate and read the contents of a file
+3. Locate and read the contents of a file
 
    1. Navigate to the /home/analyst/reports/users directory.
    2. List the files in the current directory.
    3. Display the contents of the Q1_added_users.txt file.
 
-6. Navigate to a directory and locate a file
+4. Navigate to a directory and locate a file
 
    1. Navigate to the /home/analyst/logs directory.
    2. Display the name of the file it contains.
