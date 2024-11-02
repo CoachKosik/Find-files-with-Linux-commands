@@ -1,4 +1,4 @@
-# Find-files-with-Linux-commands
+# Find files with Linux commands
 
 ## Objective
 
